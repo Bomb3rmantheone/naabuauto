@@ -5,7 +5,7 @@ Installation:
 
 git clone https://github.com/Bomb3rmantheone/naabuauto.git
 
-To use:
+Before using:
 
 open the naabuauto.py file inside of a text editor and where it says "path/to/file", replace with the path to your txt file with your subdomains or IP's. 
 
